@@ -5,6 +5,3 @@
 [submodule "fdasrvf"]
 	path = fdasrvf
 	url = https://github.com/jdtuck/fdasrvf_r
-[submodule "stpphawkes"]
-	path = stpphawkes
-	url = https://github.com/cran/stpphawkes
